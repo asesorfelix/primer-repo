@@ -6,7 +6,9 @@ Este es mi primer repositorio en GitHub
 
 ![Excelente Playa:](https://github.com/asesorfelix/primer-repo/blob/main/imagenes/beach.jpg)
 
-!Que buen cafe!:https://github.com/asesorfelix/primer-repo/blob/main/imagenes/coffee.jpg
+![Que buen cafe!:] (https://github.com/asesorfelix/primer-repo/blob/main/imagenes/coffee.jpg)
+
+
 
 
 
